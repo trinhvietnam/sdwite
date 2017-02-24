@@ -15,7 +15,7 @@
                                 </div><!-- .entry-meta -->
                             </header><!-- .entry-header -->
                             <div class="entry-content">
-                                <?php echo $post->post_content?>
+                                <?php echo the_content($post->post_content)?>
                             </div><!-- .entry-content -->
                             <script>(function(d, s, id) {
                                     var js, fjs = d.getElementsByTagName(s)[0];

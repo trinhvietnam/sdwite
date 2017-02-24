@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15460db5-41e9-47a1-83ae-93aaf8336e31" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php" afterPath="$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/sandinh/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/sandinh/single.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-open.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/single.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-open.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer-open.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer-close.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer-close.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2686">
+              <caret line="158" column="22" lean-forward="false" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+              <folding>
+                <element signature="e#16200#16398#0#PHP" expanded="false" />
+                <element signature="e#16490#19526#0#PHP" expanded="false" />
+                <element signature="e#16522#19482#0#PHP" expanded="false" />
+                <element signature="e#16797#17147#0#PHP" expanded="false" />
+                <element signature="e#20298#20543#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-tuyen-dung.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive-tuyen-dung.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="73" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="73" />
+              <folding>
+                <marker date="1487842215072" expanded="true" signature="4305:4330" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="69" lean-forward="false" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'/javascripts/</find>
+      <find>&quot;/images/</find>
+      <find>sandinh_styles</find>
+      <find>supports</find>
+      <find>545</find>
+      <find>/blogs</find>
+      <find>tao_custom_post_type_gioi_thieu</find>
+      <find>FOUNDER</find>
+      <find>thumb</find>
+      <find>member-thumb</find>
+      <find>99</find>
+      <find>CEO</find>
+      <find>tuyen-dung</find>
+      <find>wp-he</find>
+      <find>Chắn</find>
+      <find>blogs</find>
+      <find>Lịch</find>
+      <find>scroll</find>
+      <find>Tuyển dụng</find>
+      <find>Tuyển đ</find>
+      <find>.css</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'&lt;?php echo get_template_directory_uri()?&gt;/public/javascripts/</replace>
+      <replace>&quot;&lt;?php echo get_template_directory_uri()?&gt;/public/images/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\sd4\wp-content\themes\sandinh</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/header-close.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/author.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/archive-tintuyendung.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/onepress/page-recruitment.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/onepress/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/menu.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/archive-blogs.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/archive-tuyen-dung.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/footer-open.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/footer-close.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sandinh/single.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sd" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="sing&#9;FILE&#9;file://C:/xampp/htdocs/sd/wp-content/themes/sandinh/single.php&#10;men&#9;FILE&#9;file://C:/xampp/htdocs/sd4/wp-content/themes/sandinh/menu.php&#10;fun&#9;FILE&#9;file://C:/xampp/htdocs/sd4/wp-content/themes/sandinh/functions.php&#10;style&#9;FILE&#9;file://C:/xampp/htdocs/sd4/wp-content/themes/sandinh/public/stylesheets/style.css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sd4\wp-content\themes\twentyseventeen" />
+      <recent name="C:\xampp\htdocs\sd4\wp-content\themes\sandinh" />
+      <recent name="C:\xampp\htdocs\sd4\wp-content\themes\onepress" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15460db5-41e9-47a1-83ae-93aaf8336e31" name="Default" comment="" />
+      <created>1487746731994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487746731994</updated>
+      <workItem from="1487746733198" duration="649000" />
+      <workItem from="1487747449531" duration="11981000" />
+      <workItem from="1487815807087" duration="816000" />
+      <workItem from="1487816993135" duration="4026000" />
+      <workItem from="1487824365046" duration="15094000" />
+      <workItem from="1487903951270" duration="2665000" />
+      <workItem from="1487911564193" duration="2134000" />
+      <workItem from="1487923391563" duration="1254000" />
+      <workItem from="1487930686031" duration="247000" />
+      <workItem from="1487933873007" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38881000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3962264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="805" column="0" lean-forward="false" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
+          <folding>
+            <element signature="e#208#273#0#PHP" expanded="false" />
+            <element signature="e#274#419#0#PHP" expanded="false" />
+            <element signature="e#421#713#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_setup#0;n#!!top" expanded="false" />
+            <element signature="e#753#1103#0#PHP" expanded="false" />
+            <element signature="e#1269#1498#0#PHP" expanded="false" />
+            <element signature="e#1542#1720#0#PHP" expanded="false" />
+            <element signature="e#2051#2208#0#PHP" expanded="false" />
+            <element signature="e#2071#2206#1#PHP" expanded="false" />
+            <element signature="e#2215#2333#0#PHP" expanded="false" />
+            <element signature="e#2338#2466#0#PHP" expanded="false" />
+            <element signature="e#2366#2464#0#PHP" expanded="false" />
+            <element signature="e#2473#2583#0#PHP" expanded="false" />
+            <element signature="e#2588#2757#0#PHP" expanded="false" />
+            <element signature="e#2623#2755#0#PHP" expanded="false" />
+            <element signature="e#2806#2945#0#PHP" expanded="false" />
+            <element signature="e#2840#2943#0#PHP" expanded="false" />
+            <element signature="e#3077#3212#0#PHP" expanded="false" />
+            <element signature="e#3409#6851#0#PHP" expanded="false" />
+            <element signature="e#3437#4004#1#PHP" expanded="false" />
+            <element signature="e#3540#3654#1#PHP" expanded="false" />
+            <element signature="e#3763#3821#1#PHP" expanded="false" />
+            <element signature="e#3917#3993#1#PHP" expanded="false" />
+            <element signature="e#4121#4559#1#PHP" expanded="false" />
+            <element signature="e#4171#4244#1#PHP" expanded="false" />
+            <element signature="e#4271#4344#1#PHP" expanded="false" />
+            <element signature="e#4368#4439#1#PHP" expanded="false" />
+            <element signature="e#4475#4548#1#PHP" expanded="false" />
+            <element signature="e#4669#5334#1#PHP" expanded="false" />
+            <element signature="e#4708#4921#1#PHP" expanded="false" />
+            <element signature="e#4955#5125#1#PHP" expanded="false" />
+            <element signature="e#5157#5323#1#PHP" expanded="false" />
+            <element signature="e#5438#5580#1#PHP" expanded="false" />
+            <element signature="e#5697#5877#1#PHP" expanded="false" />
+            <element signature="e#5982#6844#1#PHP" expanded="false" />
+            <element signature="e#6062#6428#1#PHP" expanded="false" />
+            <element signature="e#6159#6413#1#PHP" expanded="false" />
+            <element signature="e#6510#6833#1#PHP" expanded="false" />
+            <element signature="e#6616#6818#1#PHP" expanded="false" />
+            <element signature="e#6858#7039#0#PHP" expanded="false" />
+            <element signature="e#7259#7446#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_width#0;n#!!top" expanded="false" />
+            <element signature="e#7653#7856#0#PHP" expanded="false" />
+            <element signature="e#7700#7850#0#PHP" expanded="false" />
+            <element signature="e#7784#7850#0#PHP" expanded="false" />
+            <element signature="e#7918#8012#0#PHP" expanded="false" />
+            <element signature="e#8018#8174#0#PHP" expanded="false" />
+            <element signature="e#8347#8380#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_fonts_url#0;n#!!top" expanded="false" />
+            <element signature="e#8446#8640#0#PHP" expanded="false" />
+            <element signature="e#8733#9143#0#PHP" expanded="false" />
+            <element signature="e#8907#9048#0#PHP" expanded="false" />
+            <element signature="e#9186#9473#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_resource_hints#0;n#!!top" expanded="false" />
+            <element signature="e#9545#9756#0#PHP" expanded="false" />
+            <element signature="e#9655#9749#0#PHP" expanded="false" />
+            <element signature="e#9855#9984#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_widgets_init#0;n#!!top" expanded="false" />
+            <element signature="e#10031#10468#0#PHP" expanded="false" />
+            <element signature="e#10049#10466#1#PHP" expanded="false" />
+            <element signature="e#10475#10912#0#PHP" expanded="false" />
+            <element signature="e#10493#10910#1#PHP" expanded="false" />
+            <element signature="e#10919#11356#0#PHP" expanded="false" />
+            <element signature="e#10937#11354#1#PHP" expanded="false" />
+            <element signature="e#11423#11647#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_excerpt_more#0;n#!!top" expanded="false" />
+            <element signature="e#11701#11748#0#PHP" expanded="false" />
+            <element signature="e#11762#12087#0#PHP" expanded="false" />
+            <element signature="e#12187#12343#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_javascript_detection#0;n#!!top" expanded="false" />
+            <element signature="e#12599#12688#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_pingback_header#0;n#!!top" expanded="false" />
+            <element signature="e#12738#12874#0#PHP" expanded="false" />
+            <element signature="e#12938#12974#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_colors_css_wrap#0;n#!!top" expanded="false" />
+            <element signature="e#13024#13126#0#PHP" expanded="false" />
+            <element signature="e#13543#13581#0#PHP" expanded="false" />
+            <element signature="e#13902#14146#0#PHP" expanded="false" />
+            <element signature="e#14250#14499#0#PHP" expanded="false" />
+            <element signature="e#15237#15728#0#PHP" expanded="false" />
+            <element signature="e#16122#16250#0#PHP" expanded="false" />
+            <element signature="e#16317#16753#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_image_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#16851#16955#0#PHP" expanded="false" />
+            <element signature="e#16961#17285#0#PHP" expanded="false" />
+            <element signature="e#17068#17279#0#PHP" expanded="false" />
+            <element signature="e#17402#17772#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_header_image_tag#0;n#!!top" expanded="false" />
+            <element signature="e#17846#17947#0#PHP" expanded="false" />
+            <element signature="e#18050#18487#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#18574#18788#0#PHP" expanded="false" />
+            <element signature="e#18742#18788#0#PHP" expanded="false" />
+            <element signature="e#18915#19188#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_front_page_template#0;n#!!top" expanded="false" />
+            <element signature="e#19370#21647#0#PHP" expanded="false" />
+            <element signature="e#19430#21645#0#PHP" expanded="false" />
+            <element signature="e#19486#19593#0#PHP" expanded="false" />
+            <element signature="e#19611#19764#0#PHP" expanded="false" />
+            <element signature="e#19775#19855#0#PHP" expanded="false" />
+            <element signature="e#19872#21510#0#PHP" expanded="false" />
+            <element signature="e#20056#20338#1#PHP" expanded="false" />
+            <element signature="e#20198#20227#0#PHP" expanded="false" />
+            <element signature="e#21743#24002#0#PHP" expanded="false" />
+            <element signature="e#21799#24000#0#PHP" expanded="false" />
+            <element signature="e#21851#21958#0#PHP" expanded="false" />
+            <element signature="e#21976#22126#0#PHP" expanded="false" />
+            <element signature="e#22137#22217#0#PHP" expanded="false" />
+            <element signature="e#22234#23868#0#PHP" expanded="false" />
+            <element signature="e#22414#22696#1#PHP" expanded="false" />
+            <element signature="e#22556#22585#0#PHP" expanded="false" />
+            <element signature="e#24094#26404#0#PHP" expanded="false" />
+            <element signature="e#24161#26402#0#PHP" expanded="false" />
+            <element signature="e#24223#24330#0#PHP" expanded="false" />
+            <element signature="e#24348#24513#0#PHP" expanded="false" />
+            <element signature="e#24524#24604#0#PHP" expanded="false" />
+            <element signature="e#24621#26265#0#PHP" expanded="false" />
+            <element signature="e#24811#25093#1#PHP" expanded="false" />
+            <element signature="e#24953#24982#0#PHP" expanded="false" />
+            <element signature="e#26506#28791#0#PHP" expanded="false" />
+            <element signature="e#26566#28789#0#PHP" expanded="false" />
+            <element signature="e#26621#26728#0#PHP" expanded="false" />
+            <element signature="e#26746#26903#0#PHP" expanded="false" />
+            <element signature="e#26914#26994#0#PHP" expanded="false" />
+            <element signature="e#27011#28655#0#PHP" expanded="false" />
+            <element signature="e#27201#27483#1#PHP" expanded="false" />
+            <element signature="e#27343#27372#0#PHP" expanded="false" />
+            <element signature="e#28886#31151#0#PHP" expanded="false" />
+            <element signature="e#28948#31149#0#PHP" expanded="false" />
+            <element signature="e#29006#29113#0#PHP" expanded="false" />
+            <element signature="e#29131#29296#0#PHP" expanded="false" />
+            <element signature="e#29307#29387#0#PHP" expanded="false" />
+            <element signature="e#29404#31059#0#PHP" expanded="false" />
+            <element signature="e#29605#29887#1#PHP" expanded="false" />
+            <element signature="e#29747#29776#0#PHP" expanded="false" />
+            <element signature="e#31250#31363#0#PHP" expanded="false" />
+            <element signature="n#sandinh_styles#0;n#!!top" expanded="false" />
+            <element signature="e#31396#31568#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10098">
+          <caret line="594" column="82" lean-forward="false" selection-start-line="594" selection-start-column="82" selection-end-line="594" selection-end-column="82" />
+          <folding>
+            <element signature="e#16200#16398#0#PHP" expanded="false" />
+            <element signature="e#16490#19526#0#PHP" expanded="false" />
+            <element signature="e#16522#19482#0#PHP" expanded="false" />
+            <element signature="e#16797#17147#0#PHP" expanded="false" />
+            <element signature="e#20298#20543#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive-tuyen-dung.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487842215072" expanded="true" signature="4305:4330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive-blogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <marker date="1487842184617" expanded="true" signature="2380:2405" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="805" column="0" lean-forward="true" selection-start-line="805" selection-start-column="0" selection-end-line="805" selection-end-column="0" />
+          <folding>
+            <element signature="e#208#273#0#PHP" expanded="false" />
+            <element signature="e#274#419#0#PHP" expanded="false" />
+            <element signature="e#421#713#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_setup#0;n#!!top" expanded="false" />
+            <element signature="e#753#1103#0#PHP" expanded="false" />
+            <element signature="e#1269#1498#0#PHP" expanded="false" />
+            <element signature="e#1542#1720#0#PHP" expanded="false" />
+            <element signature="e#2051#2208#0#PHP" expanded="false" />
+            <element signature="e#2071#2206#1#PHP" expanded="false" />
+            <element signature="e#2215#2333#0#PHP" expanded="false" />
+            <element signature="e#2338#2466#0#PHP" expanded="false" />
+            <element signature="e#2366#2464#0#PHP" expanded="false" />
+            <element signature="e#2473#2583#0#PHP" expanded="false" />
+            <element signature="e#2588#2757#0#PHP" expanded="false" />
+            <element signature="e#2623#2755#0#PHP" expanded="false" />
+            <element signature="e#2806#2945#0#PHP" expanded="false" />
+            <element signature="e#2840#2943#0#PHP" expanded="false" />
+            <element signature="e#3077#3212#0#PHP" expanded="false" />
+            <element signature="e#3409#6851#0#PHP" expanded="false" />
+            <element signature="e#3437#4004#1#PHP" expanded="false" />
+            <element signature="e#3540#3654#1#PHP" expanded="false" />
+            <element signature="e#3763#3821#1#PHP" expanded="false" />
+            <element signature="e#3917#3993#1#PHP" expanded="false" />
+            <element signature="e#4121#4559#1#PHP" expanded="false" />
+            <element signature="e#4171#4244#1#PHP" expanded="false" />
+            <element signature="e#4271#4344#1#PHP" expanded="false" />
+            <element signature="e#4368#4439#1#PHP" expanded="false" />
+            <element signature="e#4475#4548#1#PHP" expanded="false" />
+            <element signature="e#4669#5334#1#PHP" expanded="false" />
+            <element signature="e#4708#4921#1#PHP" expanded="false" />
+            <element signature="e#4955#5125#1#PHP" expanded="false" />
+            <element signature="e#5157#5323#1#PHP" expanded="false" />
+            <element signature="e#5438#5580#1#PHP" expanded="false" />
+            <element signature="e#5697#5877#1#PHP" expanded="false" />
+            <element signature="e#5982#6844#1#PHP" expanded="false" />
+            <element signature="e#6062#6428#1#PHP" expanded="false" />
+            <element signature="e#6159#6413#1#PHP" expanded="false" />
+            <element signature="e#6510#6833#1#PHP" expanded="false" />
+            <element signature="e#6616#6818#1#PHP" expanded="false" />
+            <element signature="e#6858#7039#0#PHP" expanded="false" />
+            <element signature="e#7259#7446#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_width#0;n#!!top" expanded="false" />
+            <element signature="e#7653#7856#0#PHP" expanded="false" />
+            <element signature="e#7700#7850#0#PHP" expanded="false" />
+            <element signature="e#7784#7850#0#PHP" expanded="false" />
+            <element signature="e#7918#8012#0#PHP" expanded="false" />
+            <element signature="e#8018#8174#0#PHP" expanded="false" />
+            <element signature="e#8347#8380#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_fonts_url#0;n#!!top" expanded="false" />
+            <element signature="e#8446#8640#0#PHP" expanded="false" />
+            <element signature="e#8733#9143#0#PHP" expanded="false" />
+            <element signature="e#8907#9048#0#PHP" expanded="false" />
+            <element signature="e#9186#9473#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_resource_hints#0;n#!!top" expanded="false" />
+            <element signature="e#9545#9756#0#PHP" expanded="false" />
+            <element signature="e#9655#9749#0#PHP" expanded="false" />
+            <element signature="e#9855#9984#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_widgets_init#0;n#!!top" expanded="false" />
+            <element signature="e#10031#10468#0#PHP" expanded="false" />
+            <element signature="e#10049#10466#1#PHP" expanded="false" />
+            <element signature="e#10475#10912#0#PHP" expanded="false" />
+            <element signature="e#10493#10910#1#PHP" expanded="false" />
+            <element signature="e#10919#11356#0#PHP" expanded="false" />
+            <element signature="e#10937#11354#1#PHP" expanded="false" />
+            <element signature="e#11423#11647#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_excerpt_more#0;n#!!top" expanded="false" />
+            <element signature="e#11701#11748#0#PHP" expanded="false" />
+            <element signature="e#11762#12087#0#PHP" expanded="false" />
+            <element signature="e#12187#12343#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_javascript_detection#0;n#!!top" expanded="false" />
+            <element signature="e#12599#12688#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_pingback_header#0;n#!!top" expanded="false" />
+            <element signature="e#12738#12874#0#PHP" expanded="false" />
+            <element signature="e#12938#12974#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_colors_css_wrap#0;n#!!top" expanded="false" />
+            <element signature="e#13024#13126#0#PHP" expanded="false" />
+            <element signature="e#13543#13581#0#PHP" expanded="false" />
+            <element signature="e#13902#14146#0#PHP" expanded="false" />
+            <element signature="e#14250#14499#0#PHP" expanded="false" />
+            <element signature="e#15237#15728#0#PHP" expanded="false" />
+            <element signature="e#16122#16250#0#PHP" expanded="false" />
+            <element signature="e#16317#16753#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_image_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#16851#16955#0#PHP" expanded="false" />
+            <element signature="e#16961#17285#0#PHP" expanded="false" />
+            <element signature="e#17068#17279#0#PHP" expanded="false" />
+            <element signature="e#17402#17772#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_header_image_tag#0;n#!!top" expanded="false" />
+            <element signature="e#17846#17947#0#PHP" expanded="false" />
+            <element signature="e#18050#18487#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#18574#18788#0#PHP" expanded="false" />
+            <element signature="e#18742#18788#0#PHP" expanded="false" />
+            <element signature="e#18915#19188#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_front_page_template#0;n#!!top" expanded="false" />
+            <element signature="e#19370#21647#0#PHP" expanded="false" />
+            <element signature="e#19430#21645#0#PHP" expanded="false" />
+            <element signature="e#19486#19593#0#PHP" expanded="false" />
+            <element signature="e#19611#19764#0#PHP" expanded="false" />
+            <element signature="e#19775#19855#0#PHP" expanded="false" />
+            <element signature="e#19872#21510#0#PHP" expanded="false" />
+            <element signature="e#20056#20338#1#PHP" expanded="false" />
+            <element signature="e#20198#20227#0#PHP" expanded="false" />
+            <element signature="e#21743#24002#0#PHP" expanded="false" />
+            <element signature="e#21799#24000#0#PHP" expanded="false" />
+            <element signature="e#21851#21958#0#PHP" expanded="false" />
+            <element signature="e#21976#22126#0#PHP" expanded="false" />
+            <element signature="e#22137#22217#0#PHP" expanded="false" />
+            <element signature="e#22234#23868#0#PHP" expanded="false" />
+            <element signature="e#22414#22696#1#PHP" expanded="false" />
+            <element signature="e#22556#22585#0#PHP" expanded="false" />
+            <element signature="e#24094#26404#0#PHP" expanded="false" />
+            <element signature="e#24161#26402#0#PHP" expanded="false" />
+            <element signature="e#24223#24330#0#PHP" expanded="false" />
+            <element signature="e#24348#24513#0#PHP" expanded="false" />
+            <element signature="e#24524#24604#0#PHP" expanded="false" />
+            <element signature="e#24621#26265#0#PHP" expanded="false" />
+            <element signature="e#24811#25093#1#PHP" expanded="false" />
+            <element signature="e#24953#24982#0#PHP" expanded="false" />
+            <element signature="e#26506#28791#0#PHP" expanded="false" />
+            <element signature="e#26566#28789#0#PHP" expanded="false" />
+            <element signature="e#26621#26728#0#PHP" expanded="false" />
+            <element signature="e#26746#26903#0#PHP" expanded="false" />
+            <element signature="e#26914#26994#0#PHP" expanded="false" />
+            <element signature="e#27011#28655#0#PHP" expanded="false" />
+            <element signature="e#27201#27483#1#PHP" expanded="false" />
+            <element signature="e#27343#27372#0#PHP" expanded="false" />
+            <element signature="e#28886#31151#0#PHP" expanded="false" />
+            <element signature="e#28948#31149#0#PHP" expanded="false" />
+            <element signature="e#29006#29113#0#PHP" expanded="false" />
+            <element signature="e#29131#29296#0#PHP" expanded="false" />
+            <element signature="e#29307#29387#0#PHP" expanded="false" />
+            <element signature="e#29404#31059#0#PHP" expanded="false" />
+            <element signature="e#29605#29887#1#PHP" expanded="false" />
+            <element signature="e#29747#29776#0#PHP" expanded="false" />
+            <element signature="e#31250#31363#0#PHP" expanded="false" />
+            <element signature="n#sandinh_styles#0;n#!!top" expanded="false" />
+            <element signature="e#31396#31568#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding>
+            <element signature="e#16200#16398#0#PHP" expanded="false" />
+            <element signature="e#16490#19526#0#PHP" expanded="false" />
+            <element signature="e#16522#19482#0#PHP" expanded="false" />
+            <element signature="e#16797#17147#0#PHP" expanded="false" />
+            <element signature="e#20298#20543#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3791">
+          <caret line="223" column="0" lean-forward="true" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header-close.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer-close.ejs" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/random_compat/random_bytes_openssl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/archive-recruitment.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/page-recruitment.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/page-tuyen-dung.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="6122" column="29" lean-forward="true" selection-start-line="6122" selection-start-column="29" selection-end-line="6122" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive-blogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="137" lean-forward="false" selection-start-line="82" selection-start-column="137" selection-end-line="82" selection-end-column="137" />
+          <folding>
+            <marker date="1487842184617" expanded="true" signature="2380:2405" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/public/javascripts/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="22" lean-forward="false" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/public/javascripts/lightgallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="374" column="17" lean-forward="false" selection-start-line="374" selection-start-column="17" selection-end-line="374" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/public/images/f.txt" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header-close.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43826">
+          <caret line="2583" column="9" lean-forward="false" selection-start-line="2583" selection-start-column="9" selection-end-line="2583" selection-end-column="9" />
+          <folding>
+            <marker date="1479671190000" expanded="true" signature="28836:28849" ph="..." />
+            <marker date="1479671190000" expanded="true" signature="55477:55659" ph="SELECT YEAR(... " />
+            <marker date="1479671190000" expanded="true" signature="56551:56686" ph="SELECT YEAR(... " />
+            <marker date="1479671190000" expanded="true" signature="57451:57695" ph="SELECT YEAR(... " />
+            <marker date="1479671190000" expanded="true" signature="58666:58904" ph="SELECT DISTI... " />
+            <marker date="1479671190000" expanded="true" signature="60308:60366" ph="SELECT * FRO... ${$wpdb-&gt;posts}" />
+            <marker date="1479671190000" expanded="true" signature="62669:62764" ph="SELECT 1 as ${$wpdb-&gt;posts}" />
+            <marker date="1479671190000" expanded="true" signature="64002:64216" ph="SELECT MONTH... " />
+            <marker date="1479671190000" expanded="true" signature="64245:64476" ph="SELECT MONTH... " />
+            <marker date="1479671190000" expanded="true" signature="64652:64793" ph="..." />
+            <marker date="1479671190000" expanded="true" signature="64787:64793" ph="..." />
+            <marker date="1479671190000" expanded="true" signature="65238:65244" ph="..." />
+            <marker date="1479671190000" expanded="true" signature="66047:66053" ph="..." />
+            <marker date="1479671190000" expanded="true" signature="66146:66381" ph="SELECT DISTI... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/archive-tuyen-dung.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="543" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="820" selection-end-column="0" />
+          <folding>
+            <element signature="e#208#273#0#PHP" expanded="false" />
+            <element signature="e#274#419#0#PHP" expanded="false" />
+            <element signature="e#421#713#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_setup#0;n#!!top" expanded="false" />
+            <element signature="e#753#1103#0#PHP" expanded="false" />
+            <element signature="e#1269#1498#0#PHP" expanded="false" />
+            <element signature="e#1542#1720#0#PHP" expanded="false" />
+            <element signature="e#2051#2208#0#PHP" expanded="false" />
+            <element signature="e#2071#2206#1#PHP" expanded="false" />
+            <element signature="e#2215#2333#0#PHP" expanded="false" />
+            <element signature="e#2338#2466#0#PHP" expanded="false" />
+            <element signature="e#2366#2464#0#PHP" expanded="false" />
+            <element signature="e#2473#2583#0#PHP" expanded="false" />
+            <element signature="e#2588#2757#0#PHP" expanded="false" />
+            <element signature="e#2623#2755#0#PHP" expanded="false" />
+            <element signature="e#2806#2945#0#PHP" expanded="false" />
+            <element signature="e#2840#2943#0#PHP" expanded="false" />
+            <element signature="e#3077#3212#0#PHP" expanded="false" />
+            <element signature="e#3409#6851#0#PHP" expanded="false" />
+            <element signature="e#3437#4004#1#PHP" expanded="false" />
+            <element signature="e#3540#3654#1#PHP" expanded="false" />
+            <element signature="e#3763#3821#1#PHP" expanded="false" />
+            <element signature="e#3917#3993#1#PHP" expanded="false" />
+            <element signature="e#4121#4559#1#PHP" expanded="false" />
+            <element signature="e#4171#4244#1#PHP" expanded="false" />
+            <element signature="e#4271#4344#1#PHP" expanded="false" />
+            <element signature="e#4368#4439#1#PHP" expanded="false" />
+            <element signature="e#4475#4548#1#PHP" expanded="false" />
+            <element signature="e#4669#5334#1#PHP" expanded="false" />
+            <element signature="e#4708#4921#1#PHP" expanded="false" />
+            <element signature="e#4955#5125#1#PHP" expanded="false" />
+            <element signature="e#5157#5323#1#PHP" expanded="false" />
+            <element signature="e#5438#5580#1#PHP" expanded="false" />
+            <element signature="e#5697#5877#1#PHP" expanded="false" />
+            <element signature="e#5982#6844#1#PHP" expanded="false" />
+            <element signature="e#6062#6428#1#PHP" expanded="false" />
+            <element signature="e#6159#6413#1#PHP" expanded="false" />
+            <element signature="e#6510#6833#1#PHP" expanded="false" />
+            <element signature="e#6616#6818#1#PHP" expanded="false" />
+            <element signature="e#6858#7039#0#PHP" expanded="false" />
+            <element signature="e#7259#7446#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_width#0;n#!!top" expanded="false" />
+            <element signature="e#7653#7856#0#PHP" expanded="false" />
+            <element signature="e#7700#7850#0#PHP" expanded="false" />
+            <element signature="e#7784#7850#0#PHP" expanded="false" />
+            <element signature="e#7918#8012#0#PHP" expanded="false" />
+            <element signature="e#8018#8174#0#PHP" expanded="false" />
+            <element signature="e#8347#8380#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_fonts_url#0;n#!!top" expanded="false" />
+            <element signature="e#8446#8640#0#PHP" expanded="false" />
+            <element signature="e#8733#9143#0#PHP" expanded="false" />
+            <element signature="e#8907#9048#0#PHP" expanded="false" />
+            <element signature="e#9186#9473#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_resource_hints#0;n#!!top" expanded="false" />
+            <element signature="e#9545#9756#0#PHP" expanded="false" />
+            <element signature="e#9655#9749#0#PHP" expanded="false" />
+            <element signature="e#9855#9984#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_widgets_init#0;n#!!top" expanded="false" />
+            <element signature="e#10031#10468#0#PHP" expanded="false" />
+            <element signature="e#10049#10466#1#PHP" expanded="false" />
+            <element signature="e#10475#10912#0#PHP" expanded="false" />
+            <element signature="e#10493#10910#1#PHP" expanded="false" />
+            <element signature="e#10919#11356#0#PHP" expanded="false" />
+            <element signature="e#10937#11354#1#PHP" expanded="false" />
+            <element signature="e#11423#11647#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_excerpt_more#0;n#!!top" expanded="false" />
+            <element signature="e#11701#11748#0#PHP" expanded="false" />
+            <element signature="e#11762#12087#0#PHP" expanded="false" />
+            <element signature="e#12187#12343#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_javascript_detection#0;n#!!top" expanded="false" />
+            <element signature="e#12599#12688#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_pingback_header#0;n#!!top" expanded="false" />
+            <element signature="e#12738#12874#0#PHP" expanded="false" />
+            <element signature="e#12938#12974#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_colors_css_wrap#0;n#!!top" expanded="false" />
+            <element signature="e#13024#13126#0#PHP" expanded="false" />
+            <element signature="e#13543#13581#0#PHP" expanded="false" />
+            <element signature="e#13902#14146#0#PHP" expanded="false" />
+            <element signature="e#14250#14499#0#PHP" expanded="false" />
+            <element signature="e#15237#15728#0#PHP" expanded="false" />
+            <element signature="e#16122#16250#0#PHP" expanded="false" />
+            <element signature="e#16317#16753#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_content_image_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#16851#16955#0#PHP" expanded="false" />
+            <element signature="e#16961#17285#0#PHP" expanded="false" />
+            <element signature="e#17068#17279#0#PHP" expanded="false" />
+            <element signature="e#17402#17772#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_header_image_tag#0;n#!!top" expanded="false" />
+            <element signature="e#17846#17947#0#PHP" expanded="false" />
+            <element signature="e#18050#18487#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_post_thumbnail_sizes_attr#0;n#!!top" expanded="false" />
+            <element signature="e#18574#18788#0#PHP" expanded="false" />
+            <element signature="e#18742#18788#0#PHP" expanded="false" />
+            <element signature="e#18915#19188#0#PHP" expanded="false" />
+            <element signature="n#twentyseventeen_front_page_template#0;n#!!top" expanded="false" />
+            <element signature="e#19370#21647#0#PHP" expanded="false" />
+            <element signature="e#19430#21645#0#PHP" expanded="false" />
+            <element signature="e#19486#19593#0#PHP" expanded="false" />
+            <element signature="e#19611#19764#0#PHP" expanded="false" />
+            <element signature="e#19775#19855#0#PHP" expanded="false" />
+            <element signature="e#19872#21510#0#PHP" expanded="false" />
+            <element signature="e#20056#20338#1#PHP" expanded="false" />
+            <element signature="e#20198#20227#0#PHP" expanded="false" />
+            <element signature="e#21743#24002#0#PHP" expanded="false" />
+            <element signature="e#21799#24000#0#PHP" expanded="false" />
+            <element signature="e#21851#21958#0#PHP" expanded="false" />
+            <element signature="e#21976#22126#0#PHP" expanded="false" />
+            <element signature="e#22137#22217#0#PHP" expanded="false" />
+            <element signature="e#22234#23868#0#PHP" expanded="false" />
+            <element signature="e#22414#22696#1#PHP" expanded="false" />
+            <element signature="e#22556#22585#0#PHP" expanded="false" />
+            <element signature="e#24094#26404#0#PHP" expanded="false" />
+            <element signature="e#24161#26402#0#PHP" expanded="false" />
+            <element signature="e#24223#24330#0#PHP" expanded="false" />
+            <element signature="e#24348#24513#0#PHP" expanded="false" />
+            <element signature="e#24524#24604#0#PHP" expanded="false" />
+            <element signature="e#24621#26265#0#PHP" expanded="false" />
+            <element signature="e#24811#25093#1#PHP" expanded="false" />
+            <element signature="e#24953#24982#0#PHP" expanded="false" />
+            <element signature="e#26506#28791#0#PHP" expanded="false" />
+            <element signature="e#26566#28789#0#PHP" expanded="false" />
+            <element signature="e#26621#26728#0#PHP" expanded="false" />
+            <element signature="e#26746#26903#0#PHP" expanded="false" />
+            <element signature="e#26914#26994#0#PHP" expanded="false" />
+            <element signature="e#27011#28655#0#PHP" expanded="false" />
+            <element signature="e#27201#27483#1#PHP" expanded="false" />
+            <element signature="e#27343#27372#0#PHP" expanded="false" />
+            <element signature="e#28886#31151#0#PHP" expanded="false" />
+            <element signature="e#28948#31149#0#PHP" expanded="false" />
+            <element signature="e#29006#29113#0#PHP" expanded="false" />
+            <element signature="e#29131#29296#0#PHP" expanded="false" />
+            <element signature="e#29307#29387#0#PHP" expanded="false" />
+            <element signature="e#29404#31059#0#PHP" expanded="false" />
+            <element signature="e#29605#29887#1#PHP" expanded="false" />
+            <element signature="e#29747#29776#0#PHP" expanded="false" />
+            <element signature="e#31250#31363#0#PHP" expanded="false" />
+            <element signature="n#sandinh_styles#0;n#!!top" expanded="false" />
+            <element signature="e#31396#31568#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer-open.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="69" lean-forward="false" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="22" lean-forward="false" selection-start-line="158" selection-start-column="22" selection-end-line="158" selection-end-column="22" />
+          <folding>
+            <element signature="e#16200#16398#0#PHP" expanded="false" />
+            <element signature="e#16490#19526#0#PHP" expanded="false" />
+            <element signature="e#16522#19482#0#PHP" expanded="false" />
+            <element signature="e#16797#17147#0#PHP" expanded="false" />
+            <element signature="e#20298#20543#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/archive-tuyen-dung.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="73" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="73" />
+          <folding>
+            <marker date="1487842215072" expanded="true" signature="4305:4330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer-close.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/header-open.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sandinh/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
