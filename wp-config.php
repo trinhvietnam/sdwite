@@ -17,8 +17,8 @@
  *
  * @package WordPress
  */
-define('WP_HOME','http://localhost/sd');
-define('WP_SITEURL','http://localhost/sd');
+define('WP_HOME','http://45.76.213.217/sd');
+define('WP_SITEURL','http://45.76.213.217/sd');
  
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
