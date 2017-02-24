@@ -92,6 +92,7 @@
     <link rel='stylesheet' id='onepress-style-css'
           href='<?php echo get_template_directory_uri()?>/public/stylesheets/style.css?ver=1.1.8'
           type='text/css' media='all'/>
+    
     <style id='onepress-style-inline-css' type='text/css'>
         #main .video-section section.hero-slideshow-wrapper {
             background: transparent
