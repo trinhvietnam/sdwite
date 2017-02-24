@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 
 /** MySQL database password */
 /**define('DB_PASSWORD', '');*/
-define('DB_PASSWORD', 'passwordSandinh');*/
+define('DB_PASSWORD', 'passwordSandinh');
 /** MySQL hostname */
 define('DB_HOST', '45.76.213.217');
 /**define('DB_HOST', 'localhost');*/
